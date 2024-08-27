@@ -1,0 +1,15 @@
+p{
+    color: red;
+}
+
+#article1 {
+    background-color: turquoise;
+}
+
+.paraclass {
+    background-color: yellow;
+}
+
+p, article {
+    width: 500px;
+}
