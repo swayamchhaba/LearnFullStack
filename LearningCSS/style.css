@@ -1,15 +1,20 @@
 p{
-    color: red;
+    font-style: italic;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 900;
+    line-height: 30px;
 }
 
-#article1 {
-    background-color: turquoise;
-}
-
-.paraclass {
+#firstPara{
     background-color: yellow;
+    color: brown;
 }
 
-p, article {
-    width: 500px;
+#secondPara{
+    background-color: rgb(105, 129, 194);
+}
+
+#thirdPara{
+    background-color: rgba(50, 198, 27, 0.523);
 }
