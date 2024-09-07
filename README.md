@@ -16,3 +16,4 @@ The resume folder contains a basic resume that is being made using html alone.
 
 CSS learning starts from Learning CSS folder which right now has the first CSS file along with the required html file.
 
+Using lecture number naming format for folders for easy access
